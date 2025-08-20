@@ -8,7 +8,7 @@ Linkedin Post Liker & Commenter (Chrome Extension)
 
 📦 Installation
 1. Clone this repository:
-   git clone https://github.com/your-username/Linkedin-Post-Liker-and-Commenter.git
+   git clone [https://github.com/piyushverma-github/linkedin-auto-extension.git]
 2. Open Chrome and go to chrome://extensions/.
 3. Enable Developer mode (toggle on top-right).
 4. Click Load unpacked and select this project folder.

@@ -1,0 +1,25 @@
+{
+  "name": "Linkedin Post liker and Commenter",
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "description": "This is an advanced Chrome extension that will automatically like and post comment 'CFBR' on LinkedIn posts based on user input.",
+  "permissions": ["tabs", "scripting"],
+  "action": {
+    "default_popup": "pop.html",
+    "default_icon": {
+      "1": "Images/1.png",
+      "16": "Images/16.png"
+      
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.linkedin.com/*"],
+      "js": ["contentScripts.js"],
+      "all_frames": true,
+      "run_at": "document_idle"
+    }
+  ]
+}
+
+    

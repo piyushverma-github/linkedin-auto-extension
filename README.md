@@ -6,6 +6,10 @@ Linkedin Post Liker & Commenter (Chrome Extension)
 - ⚡ Adjustable number of likes & comments via popup.
 - 🛡️ Runs at a safe speed (every 4 seconds) to mimic human behavior.
 
+Screenshot:
+<img width="916" height="751" alt="image" src="https://github.com/user-attachments/assets/4fde4245-aa82-451d-9fbb-2280d45b953d" />
+
+
 📦 Installation
 1. Clone this repository:
    git clone [https://github.com/piyushverma-github/linkedin-auto-extension.git]
@@ -34,3 +38,5 @@ Linkedin Post Liker & Commenter (Chrome Extension)
 
 👨‍💻 Author
 Built by Piyush Verma (https://github.com/piyushverma-github)
+
+
